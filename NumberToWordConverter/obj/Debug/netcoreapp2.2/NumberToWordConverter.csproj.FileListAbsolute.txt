@@ -1,0 +1,11 @@
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\bin\Debug\netcoreapp2.2\NumberToWordConverter.deps.json
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\bin\Debug\netcoreapp2.2\NumberToWordConverter.runtimeconfig.json
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\bin\Debug\netcoreapp2.2\NumberToWordConverter.runtimeconfig.dev.json
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\bin\Debug\netcoreapp2.2\NumberToWordConverter.dll
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\bin\Debug\netcoreapp2.2\NumberToWordConverter.pdb
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\obj\Debug\netcoreapp2.2\NumberToWordConverter.csproj.CoreCompileInputs.cache
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\obj\Debug\netcoreapp2.2\NumberToWordConverter.AssemblyInfoInputs.cache
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\obj\Debug\netcoreapp2.2\NumberToWordConverter.AssemblyInfo.cs
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\obj\Debug\netcoreapp2.2\NumberToWordConverter.dll
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\obj\Debug\netcoreapp2.2\NumberToWordConverter.pdb
+C:\Users\h288238\source\repos\NumberToWordConverter\NumberToWordConverter\obj\Debug\netcoreapp2.2\NumberToWordConverter.csprojAssemblyReference.cache
